@@ -11,7 +11,7 @@ HOMEPAGE="https://www.megasoftware.net/"
 SRC_URI="https://www.megasoftware.net/releases/${MY_P}.x86_64.rpm"
  
 RESTRICT=strip
-LICENSE=""
+LICENSE="MEGA-CC-EULA"
 SLOT="0"
 KEYWORDS="~amd64"
 IUSE=""

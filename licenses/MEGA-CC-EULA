@@ -1,0 +1,53 @@
+MEGA-Computing Core (MEGA-CC)
+
+
+END-USER AGREEMENT
+
+The MEGA-CC End-User Agreement ("EUA") is a legal agreement between you (either an individual or a single entity) and the copyright holders (the authors and their institutions) for the MEGA-CC software product(s), which may include associated software components, media, printed materials, and "online" or electronic documentation. By installing, copying, or otherwise using MEGA-CC, you agree to be bound by the terms of this agreement. This agreement represents the entire agreement concerning the program between you and the copyright holders and it supersedes any prior proposal, representation, or understanding between the parties. If you do not agree to the terms of this EUA, please do not install or use MEGA-CC. Note that the MEGA-CC software product is protected by copyright laws and international copyright treaties, as well as other intellectual property laws and treaties. MEGA-CC is not sold or bundled with any other product.
+
+1. GRANT OF USAGE 
+Permission to use MEGA-CC is given as follows:
+
+(a) Installation 
+The copyright holders grant you the right to install and use copies of the MEGA-CC software product on personal computers.
+
+(b) Use 
+MEGA-CC is intended to be used for iterative analysis and for executing workflows. For use personally or for a small group of scientists in a specific organization, you may [1] use MEGA-CC with scripting languages to create batch processing or in other analysis pipelines; [2] use MEGA-CC for personal research and teaching; [3] use MEGA-CC in a server environment; [4] create a graphical user interface (GUI) that uses MEGA-CC. You must NOT distribute these GUIs and MEGA-CC for general use without a prior written approval from the copyright holders. For approval, send a brief request to Sudhir Kumar ( s.kumar@temple.edu ). The copyright holders plan to frequently provide such approvals, especially if you wish to use MEGA-CC as a backend computing engine for your databases/resources that deliver results to the scientific community freely.
+
+(c) Modification 
+You must not modify MEGA-CC in any way.
+
+(d) Backup Copies 
+You may make copies of the MEGA-CC software product as may be necessary for backup and archival purposes.
+
+2. DESCRIPTION OF OTHER RIGHTS AND LIMITATIONS
+
+(a) Maintenance of Copyright Notices 
+You must not remove or alter any copyright notices on any and all copies of the MEGA-CC software product.
+
+(b) Distribution 
+You must NOT distribute registered copies of the MEGA-CC software product to third parties. If a need exists to distribute copies of MEGA-CC (e.g., in an instructional setting), you must obtain written permission ( contact Sudhir Kumar: s.kumar@temple.edu ).
+
+(c) Prohibition on Reverse Engineering, Decompilation, and Disassembly 
+You must not reverse engineer, decompile, or disassemble the MEGA-CC software product, except and only to the extent that such activity is expressly permitted by applicable law notwithstanding this limitation.
+
+(d) Rental 
+You must not rent, lease, or lend the MEGA-CC software product.
+
+(e) Support Services 
+The copyright holders may provide you with support services related to MEGA-CC. Any supplemental software code provided to you as part of the Support Services shall be considered part of the MEGA-CC software product and subject to the terms and conditions of this agreement.
+
+(f) Compliance with Applicable Laws 
+You must comply with all applicable laws regarding use of the MEGA-CC software product.
+
+3. TERMINATION 
+Without prejudice to any other rights, the copyright holders may terminate this agreement if you fail to comply with the terms and conditions of this EUA. In such event, you must destroy all copies of the MEGA-CC software product in your possession.
+
+4. COPYRIGHT 
+All title, including but not limited to copyrights, in and to the MEGA-CC software product and any copies thereof are owned by the copyright holders. All title and intellectual property rights in and to the content which may be accessed through use of the MEGA-CC software product is the property of the respective content owner and may be protected by applicable copyright or other intellectual property laws and treaties. This EUA grants you no rights to use such content. All rights not expressly granted are reserved by the copyright holders.
+
+5. NO WARRANTIES 
+The copyright holders expressly disclaim any warranty for the MEGA-CC software product. MEGA-CC is provided 'As Is' without any express or implied warranty of any kind, including but not limited to any warranties of merchantability, non-infringement, or fitness of a particular purpose. The copyright holders do not warrant or assume responsibility for the accuracy or completeness of any information, text, graphics, links or other items contained within the MEGA-CC software product. The copyright holders make no warranties respecting any harm that may be caused by the transmission of a computer virus, worm, time bomb, logic bomb, or other such computer program. The copyright holders further expressly disclaim any warranty or representation to Authorized Users or to any third party.
+
+6. LIMITATION OF LIABILITY 
+In no event shall the copyright holders be liable for any damages (including, without limitation, lost profits, business interruption, or lost information) rising out of 'Authorized Users' use of or inability to use the MEGA-CC software product, even if copyright holders have been advised of the possibility of such damages. In no event shall copyright holders be liable for loss of data or for indirect, special, incidental, consequential (including lost profit), or other damages based in contract, tort or otherwise. The copyright holders shall have no liability with respect to the content of the MEGA-CC software product or any part thereof, including but not limited to errors or omissions contained therein, libel, infringements of rights of publicity, privacy, trademark rights, business interruption, personal injury, loss of privacy, moral rights or the disclosure of confidential information.
