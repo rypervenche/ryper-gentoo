@@ -1,14 +1,14 @@
 <repositories encoding="unicode" version="1.1">
   <repo priority="50" quality="experimental">
-    <name>ryper-gentoo</name>
+    <name>ryper-gentoo-dev</name>
     <description>Custom ebuilds</description>
     <homepage>https://github.com/rypervenche/ryper-gentoo</homepage>
     <owner>
       <email>contact@ryper.org</email>
       <name>rypervenche</name>
     </owner>
-    <source branch="master" type="git">git@github.com:rypervenche/ryper-gentoo.git</source>
-    <source branch="master" type="git">https://github.com/rypervenche/ryper-gentoo.git</source>
-    <source branch="master" type="git">git://github.com/rypervenche/ryper-gentoo.git</source>
+    <source branch="develop" type="git">git@github.com:rypervenche/ryper-gentoo.git</source>
+    <source branch="develop" type="git">https://github.com/rypervenche/ryper-gentoo.git</source>
+    <source branch="develop" type="git">git://github.com/rypervenche/ryper-gentoo.git</source>
   </repo>
 </repositories>
