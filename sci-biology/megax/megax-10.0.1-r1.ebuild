@@ -27,20 +27,9 @@ RDEPEND="${DEPEND}"
 S="${WORKDIR}"
 
 src_install() {
-    insinto /usr/bin
-    doins usr/bin/mega{x,cc}
-
-    insinto /usr/lib64
-    doins -r usr/lib64/megax
-    fperms 0755 /usr/lib64/megax/mega{x,cc,_browser}
-    fperms 0755 /usr/lib64/megax/runmega.sh
-
-    doman usr/share/man/man1/mega*.1
-
     sed -i -r \
         -e 's/^(Version=)$/\11.0/' \
         -e 's/^(Categories=)Application;(.*)/\1Science;\2/' \
         -e 's/^(Icon=mega)\.png/\1/' usr/share/applications/megax.desktop || die
-    domenu usr/share/applications/megax.desktop
-    doicon usr/share/pixmaps/mega.png
+	cp -pRP "${S}/." "${D}/" || die "Install failed!"
 }
